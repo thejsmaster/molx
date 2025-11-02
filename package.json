@@ -1,0 +1,21 @@
+{
+  "name": "molx",
+  "version": "0.0.1",
+  "description": "Molx is a framework with state management library that lets you create store utilities with molecules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "molx",
+    "mobx",
+    "redux",
+    "utility",
+    "stores"
+  ],
+  "author": "Sean Freeman",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
